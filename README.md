@@ -1,0 +1,2 @@
+# blobs
+infominer blobs
